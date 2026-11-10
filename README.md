@@ -19,13 +19,6 @@
 - 🎮 Gosto de unir uma estética divertida com soluções funcionais.
 - ✨ Meu espaço no GitHub é onde compartilho minha evolução no mundo dev.
 
-## 📊 Minhas estatísticas
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LariDev0&show_icons=true&theme=omni&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub da Lari" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LariDev0&layout=compact&langs_count=6&theme=omni&hide_border=true" alt="Linguagens mais usadas pela Lari" />
-</p>
-
 ## 🛠️ Tecnologias que estou explorando
 
 <p align="center">
