@@ -32,9 +32,9 @@
   &nbsp;&nbsp;
   <img alt="JavaScript" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   &nbsp;&nbsp;
-  <img alt="React" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-  &nbsp;&nbsp;
   <img alt="Node.js" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+  &nbsp;&nbsp;
+  <img alt="React" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
   &nbsp;&nbsp;
   <img alt="Python" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 </p>
