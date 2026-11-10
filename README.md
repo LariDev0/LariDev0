@@ -1,37 +1,22 @@
-<h1 align="center">larissa.</h1>
+## Bem-vindo(a) ao meu perfil 👾
 
-<p align="center">
-  <sub>code, curiosity and small digital worlds.</sub>
-</p>
-
-<br />
-
-<p>
-  Oi, eu sou a Larissa — uma desenvolvedora em construção, explorando ideias e aprendendo a transformar detalhes em experiências na web.
-</p>
-
-<p>
-  No momento, estudo <strong>JavaScript</strong>, <strong>HTML</strong> e <strong>CSS</strong>.
-</p>
-
-<br />
-
-<p align="center">
-  <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/C7A76C" alt="JavaScript" />
-  &nbsp;&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/html5/BF6A52" alt="HTML5" />
-  &nbsp;&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/css3/8A93B7" alt="CSS3" />
-</p>
-
-<br />
-
-<p align="center">
-  <a href="https://instagram.com/moonttsu">instagram</a>
-  &nbsp; / &nbsp;
-  <a href="mailto:larimalaquias3@gmail.com">email</a>
-</p>
-
-<p align="center">
-  <sub>still learning, still making.</sub>
-</p>
+ <div>
+   <a href="https://github.com/LariDev0">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LariDev0&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LariDev0&layout=compact&langs_count=6&theme=omni"/>
+</div>
+    
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+ 
+<br>
+ 
+### Minhas redes abaixo!
+ 
+<div> 
+  <a href="https://instagram.com/moonttsu" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href ="mailto:larimalaquias3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
