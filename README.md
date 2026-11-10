@@ -31,6 +31,12 @@
   <img alt="HTML5" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   &nbsp;&nbsp;
   <img alt="CSS3" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  &nbsp;&nbsp;
+  <img alt="React" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+  &nbsp;&nbsp;
+  <img alt="Node.js" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+  &nbsp;&nbsp;
+  <img alt="Python" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 </p>
 
 ## <img src="https://raw.githubusercontent.com/LariDev0/LariDev0/main/assets/pixel-mail.svg" height="22" alt="" /> Vamos conversar?
