@@ -1,43 +1,71 @@
-<h1 align="center">Olá, eu sou a Larissa! 👾✨</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1d1b2e,50:57407c,100:d48b9d&height=14&section=header" alt="" />
+</p>
+
+<h1 align="center">LARISSA // LariDev0</h1>
 
 <p align="center">
-  <i>Transformando café, curiosidade e código em experiências criativas.</i>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=600&size=22&duration=3200&pause=900&color=D8B4FE&center=true&vCenter=true&width=580&lines=creative+developer+in+progress;code%2C+coffee+%26+curiosity;welcome+to+my+little+corner+of+the+web" alt="Apresentação" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/LariDev0">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=B784F7&center=true&vCenter=true&width=500&lines=Bem-vindo(a)+ao+meu+universo!+%F0%9F%8C%99;Estudando%2C+criando+e+evoluindo+com+c%C3%B3digo." alt="Apresentação animada" />
-  </a>
+  <code>[ indie web · pixel mood · learning by building ]</code>
 </p>
 
----
+<br />
 
-## 🌙 Sobre mim
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
 
-- 💜 Desenvolvedora em construção, apaixonada por tecnologia e criatividade.
-- 🧠 Sempre aprendendo algo novo e transformando ideias em projetos.
-- 🎮 Gosto de unir uma estética divertida com soluções funcionais.
-- ✨ Meu espaço no GitHub é onde compartilho minha evolução no mundo dev.
+### about_me.txt
 
-## 🛠️ Tecnologias que estou explorando
+```txt
+name      : Larissa
+status    : developing & discovering
+currently : JavaScript, HTML and CSS
+vibe      : indie / playful / pixel-ish
+```
+
+    </td>
+    <td width="50%" valign="top">
+
+### now_playing
+
+> Building small ideas into real projects.<br />
+> One commit at a time.
+
+    </td>
+  </tr>
+</table>
+
+<br />
 
 <p align="center">
-  <img alt="JavaScript" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img alt="HTML5" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img alt="CSS3" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-f6c85f?style=for-the-badge&logo=javascript&logoColor=202020&labelColor=29233a" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-e77b57?style=for-the-badge&logo=html5&logoColor=ffffff&labelColor=29233a" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-7bb6dd?style=for-the-badge&logo=css3&logoColor=ffffff&labelColor=29233a" alt="CSS3" />
 </p>
 
-## 📫 Vamos conversar?
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css&theme=dark&perline=3" alt="Ícones das tecnologias JavaScript, HTML e CSS" />
+</p>
+
+<br />
 
 <p align="center">
-  <a href="https://instagram.com/moonttsu" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://instagram.com/moonttsu">
+    <img src="https://img.shields.io/badge/INSTAGRAM-4c365f?style=for-the-badge&logo=instagram&logoColor=f8e9ff&labelColor=29233a" alt="Instagram" />
   </a>
   <a href="mailto:larimalaquias3@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-6D3A7D?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/SAY_HELLO-9c6584?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=29233a" alt="Enviar e-mail" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer" alt="" />
+  <sub>made with curiosity and a few late-night commits</sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1d1b2e,50:57407c,100:d48b9d&height=14&section=footer" alt="" />
 </p>
