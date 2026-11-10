@@ -26,11 +26,11 @@
 ## <img src="https://raw.githubusercontent.com/LariDev0/LariDev0/main/assets/pixel-tools.svg" height="22" alt="" /> Tecnologias que estou explorando
 
 <p align="center">
-  <img alt="JavaScript" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  &nbsp;&nbsp;
   <img alt="HTML5" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   &nbsp;&nbsp;
   <img alt="CSS3" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  &nbsp;&nbsp;
+  <img alt="JavaScript" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   &nbsp;&nbsp;
   <img alt="React" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
   &nbsp;&nbsp;
