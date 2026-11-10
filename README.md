@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou a Larissa! 👾✨</h1>
+<h1 align="center">Olá, eu sou a Larissa! <img src="https://raw.githubusercontent.com/LariDev0/LariDev0/main/assets/pixel-alien.svg" height="32" alt="Ícone pixelado de alienígena" /> <img src="https://raw.githubusercontent.com/LariDev0/LariDev0/main/assets/pixel-sparkle.svg" height="28" alt="Ícone pixelado de brilho" /></h1>
 
 <p align="center">
   <i>Transformando café, curiosidade e código em experiências criativas.</i>
@@ -16,14 +16,14 @@
 
 ---
 
-## 🌙 Sobre mim
+## <img src="https://raw.githubusercontent.com/LariDev0/LariDev0/main/assets/pixel-moon.svg" height="22" alt="" /> Sobre mim
 
-- 💜 Desenvolvedora em construção, apaixonada por tecnologia e criatividade.
-- 🧠 Sempre aprendendo algo novo e transformando ideias em projetos.
-- 🎮 Gosto de unir uma estética divertida com soluções funcionais.
-- ✨ Meu espaço no GitHub é onde compartilho minha evolução no mundo dev.
+- <img src="https://raw.githubusercontent.com/LariDev0/LariDev0/main/assets/pixel-heart.svg" height="18" alt="" /> Desenvolvedora em construção, apaixonada por tecnologia e criatividade.
+- <img src="https://raw.githubusercontent.com/LariDev0/LariDev0/main/assets/pixel-brain.svg" height="18" alt="" /> Sempre aprendendo algo novo e transformando ideias em projetos.
+- <img src="https://raw.githubusercontent.com/LariDev0/LariDev0/main/assets/pixel-gamepad.svg" height="18" alt="" /> Gosto de unir uma estética divertida com soluções funcionais.
+- <img src="https://raw.githubusercontent.com/LariDev0/LariDev0/main/assets/pixel-sparkle.svg" height="18" alt="" /> Meu espaço no GitHub é onde compartilho minha evolução no mundo dev.
 
-## 🛠️ Tecnologias que estou explorando
+## <img src="https://raw.githubusercontent.com/LariDev0/LariDev0/main/assets/pixel-tools.svg" height="22" alt="" /> Tecnologias que estou explorando
 
 <p align="center">
   <img alt="JavaScript" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
@@ -33,7 +33,7 @@
   <img alt="CSS3" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 </p>
 
-## 📫 Vamos conversar?
+## <img src="https://raw.githubusercontent.com/LariDev0/LariDev0/main/assets/pixel-mail.svg" height="22" alt="" /> Vamos conversar?
 
 <p align="center">
   <a href="https://instagram.com/moonttsu" target="_blank">
